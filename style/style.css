@@ -1,0 +1,10 @@
+* {
+  padding: 0;
+  margin: 0;
+  background: #25262f;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
